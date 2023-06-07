@@ -14,3 +14,5 @@
 ![](https://img.shields.io/badge/Selenium-grey?logo=Selenium)
 
 <img width="1624" alt="Screenshot of MolView" src="https://github.com/brayden-meyer/molview/assets/123148100/ce2a0d25-9933-483d-936e-fc1b76380f64">
+
+<img width="1624" alt="Screenshot of Isopentanol" src="https://github.com/brayden-meyer/molview/assets/123148100/6f2625b6-96c2-4a2b-b993-3f5beca85a76">
